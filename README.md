@@ -1,2 +1,1 @@
-# Projeto-Rede-Mais-Social
-Projeto de Porjetos de SOftware
+# Projetos de Software
